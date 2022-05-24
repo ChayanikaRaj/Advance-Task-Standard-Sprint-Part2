@@ -7,6 +7,6 @@ This repository includes files for MVPStudio Advance Task Standard Sprint Part 2
 
 2.Create database in SSMS.
 
-3.Create SQL script for datasets.
+3.Create SQL script for Advance Standard Sprint part2 datasets.
 
 4.Create Star Schema diagram.
